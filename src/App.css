@@ -17,7 +17,8 @@ body{
 }
 
 .song_player{
-  display: block;
+  min-width: 90%;
+  width: 350px;
   background-color: rgba(180, 175, 175, 0.24);
   padding: 50px;
   border-radius: 5px;
