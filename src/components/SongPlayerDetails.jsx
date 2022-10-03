@@ -1,6 +1,6 @@
 import React from "react";
 
-function SongPlayerDetails({ song }) {
+function SongPlayerDetails({song}) {
   return (
     <div className="song_player_details">
       <div className="song_cover">
